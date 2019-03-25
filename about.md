@@ -26,7 +26,7 @@ I want to be a part of this phenomenon, where the work that I do will help progr
 
 It is my dream that in part due to my efforts and contributions during my lifetime, there will be sometime in the future where this grand aspiration of mine will finally come to light. I'm not so naïve to believe that it's really going to be that simple; I know very well that it's going to be unlikely and difficult and I'll have to work harder than I've ever worked before to make my aspirations become reality. However, I'm fully prepared to tackle this lofty challenge, and I welcome it. I'll run into countless obstacles and have to overcome many challenges, but I know that as long as I keep on moving forward, learning and growing, I'll be able to achieve something I can be proud of.
 
-Because even if I don't end up changing the world, *as long as I can make a difference, I'll be happy.*
+Because even if I don't end up changing the world, as long as I can make a difference, I'll be happy.
 
 
 [Go to the Home Page]({{ site.url }}{{ site.baseurl }})
