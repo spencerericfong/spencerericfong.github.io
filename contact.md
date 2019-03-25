@@ -2,7 +2,7 @@
 layout: page
 title: Contact
 tagline: Create a contact form and you are good to go
-permalink: /z_contact.html
+permalink: /contact.html
 ---
 
 Jekyll is a great tool to create static sites but with static site, there's no backend to send your data to: that is why you need a third part service.
