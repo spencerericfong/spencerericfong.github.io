@@ -1,2 +1,2 @@
 # spencerericfong.github.io
-My personal site
+My personal site. Definitely WIP!
