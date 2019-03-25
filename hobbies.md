@@ -20,6 +20,9 @@ As a result of my dedication and hard work throughout the past many years, I've 
 - **11** *bronze medals*
 - **2** *silver medals*
 - **5** *gold medals*
+
 Not a perfect track record by any means, but I've at least managed to place in nearly all of the tournaments I've attended. Plus, one of those medals was earned at the **2011 U.S. National Championships**, or otherwise known as the **2011 Junior Olympics** for the youngsters competing. Although I don't compete anymore (no brain damage, please), I still look back at those experiences with pride at what I've accomplished.
 
 Besides taekwondo, I also have experience in **judo** and **kendo**, both Japanese martial arts. Judo is characterized by throwing and takedowns, while kendo is known for being a sword-fighting sport. Although I have barely a fraction of experience in these two other martial arts compared to taekwondo, I still greatly enjoy practicing them and I consider myself to be at least somewhat decent and knowledgeable.
+
+## Scouting and those kinds of things
