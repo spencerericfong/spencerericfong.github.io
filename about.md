@@ -1,3 +1,8 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
 #About me
 
 My name is Spencer Eric Fong, and I was born on February 16, 1999 in San Francisco, California. I'm half Korean and half Chinese, and as of right now I'm 20 years old.
