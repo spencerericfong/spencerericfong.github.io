@@ -5,3 +5,5 @@ github_username: spencerericfong
 url: "https://spencerericfong.github.io"
 author: "Spencer Eric Fong"
 image: "/assets/pictures/spencer_profile.jpg"
+github:
+  is_project_page: true
