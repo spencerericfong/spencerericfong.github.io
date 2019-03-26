@@ -41,13 +41,22 @@ Languages have fascinated me since I was young. I find language as a concept jus
 
 Regardless, I went to **Korean** school for a number of years during my youth, which was my first formal experience learning a foreign language. Like other kids forced to go to language school, I really hated it at the time. Once I hit my late teens though, I've regretted not keeping it up because that's when my fascination with languages began. Around the same time as this, I was also fanatically into anime and the like. As a result, I began to self-teach myself **Japanese**, with the goal of being able to watch anime without subtitles. Along with this, during middle school and high school, taking a foreign language was required. I decided to take **French**, however this decision was mostly because my mom wanted me to learn French over Spanish or Mandarin Chinese. And from August to December of 2018, I had the opportunity to study abroad for a semester at **Yonsei University, South Korea**. There, I took an intensive Korean language course at the *Korean Language Institute* on campus, which really skyrocketed my Korean ability.
 
-
 As far as my fluency goes in these languages nowadays, I unfortunately can't attest to being fluent at all. However, I would definitely say that I have at least basic conversational skills in all three of them, and I still practice and improve each day. I can finally talk and text with my mom in Korean, and I've made enough progress in Japanese that I can watch anime with *Japanese* subtitles, not English. I don't really have a metric for French since I'm a bit rusty, but I can still at least watch and read basic news articles and the like without too much difficulty. If I were to rank my fluency though, it'd be like this:
 1. Japanese
 2. Korean
 3. French
 
-(And of course I'm fluent in English. Or at least I hope so.)
+(And of course I'm fluent in English. Or at least I'd hope so.)
+
+
+## Music (Yes, my parents made me play piano as a kid)
+Music is universally one of the greatest things in life, and anyone who argues otherwise cannot be trusted. Seriously, music plays such a major and impactful role in human society, and as one of the oldest forms of art it's been enjoyed for tens of thousands of years. I'm no exception; music has played a significant role in my life since I first started **piano** lessons at the age of 4, and ever since then my love for music has done nothing but grown.
+
+A few years after stepping into the world of music playing with piano and *generally* enjoying it (my teacher was mean), I began taking **violin** lessons as well. Violin was a pretty major twist compared to what I was used to with piano, but even though it was a bit challenging at first, I began to have a lot of fun with it as well. I continued on for a number of years playing the two, until I hit middle school. At this point, I began to get burnt out by playing piano and violin, so I stopped taking formal lessons. On the flip side, I joined my middle school's marching band, and started learning to play the **clarinet** and **percussion** instead. That band was some serious stuff, as we've marched in parades such as **San Francisco's Chinese New Year Parade**, **Alameda's 4th of July Parade** (the longest in the country), and parades in **Disneyland** and **Universal Studios**.
+
+After middle school though I also eventually stopped playing the clarinet. However, around the start of high school I began delving into the world of **digital music production**, which involves using a *Digital Audio Workstation (DAW)* on a computer to synthesize music. Now, I don't know if it's just me but the self-learning curve for DAWs and the like is insanely steep, and as a result I'm not very proficient. However, I have over the years come up with a couple of compositions, none of which I'd ever release to the public however, much less anyone I know.
+
+Nowadays, most of my musical endeavors involves following music promoters on YouTube and clicking through Spotify. I do from time to time go back to my piano and play or fire up my computer to fool around with some synths, however I'm more of a music *appreciation* kind of guy now. Currently, my favorite music genres are **EDM**, **electronica**, **indie and alt rock**, **Jpop/Jrock**, and **hip-hop**.
 
 
 [Go to the Home Page]({{ site.url }}{{ site.baseurl }})
