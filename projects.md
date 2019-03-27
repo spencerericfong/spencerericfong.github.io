@@ -20,7 +20,7 @@ We created our submission in the **Unity** game engine, as a WebGL-based game. T
 
 
 ## CyberCTF @ UCI (April 2018)
-![CyberCTF 2018](https://cyberclub.ics.uci.edu/assets/images/ctf.png)
+![CyberCTF 2018](https://cyberclub.ics.uci.edu/assets/images/logo.png)
 
 
 
