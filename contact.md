@@ -11,7 +11,9 @@ If you'd be interested in contacting me for whatever reason, feel free to send a
 
 (This probably won't be a problem at all, but please don't spam me.)
 
-Otherwise, feel free to check out my [GitHub](https://github.com/spencerericfong), or my [projects](/projects.html)!
+Also, if you're so inclined please connect with me on [LinkedIn](www.linkedin.com/in/spencer-eric-fong), I'd greatly appreciate it.
+
+Otherwise, go ahead and check out my [GitHub](https://github.com/spencerericfong), or my [projects](/projects.html)!
 
 
 [Go to the Home Page]({{ site.url }}{{ site.baseurl }})
