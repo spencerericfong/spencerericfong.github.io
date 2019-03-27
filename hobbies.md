@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hobbies
-tagline: These are my favorite things.
+tagline: I really love all these.
 permalink: /hobbies.html
 ---
 
