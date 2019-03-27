@@ -11,7 +11,7 @@ If you'd be interested in contacting me for whatever reason, feel free to send a
 
 (This probably won't be a problem at all, but please don't spam me.)
 
-Also, if you're so inclined please connect with me on [LinkedIn](www.linkedin.com/in/spencer-eric-fong), I'd greatly appreciate it.
+Also, if you're so inclined please connect with me on [LinkedIn](https://www.linkedin.com/in/spencer-eric-fong), I'd greatly appreciate it.
 
 Otherwise, go ahead and check out my [GitHub](https://github.com/spencerericfong), or my [projects](/projects.html)!
 
