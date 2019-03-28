@@ -22,7 +22,9 @@ We created our submission in the **Unity** game engine, as a WebGL-based game. T
 ## CyberCTF @ UCI (April 2018)
 ![CyberCTF 2018](/assets/pictures/Cyber@UCI_logo.png)
 
+The cybersecurity club on campus, **Cyber @ UCI**, hosts yearly **CyberCTF** competitions that any students can participate and compete in. CyberCTF stands for cyber capture the flag, which is a competition used as a learning tool where participants use their skills and tools to solve various puzzles that encompass **cybersecurity** and its principles. For example, there were cipher puzles, logic riddles, web vulnerability attacking, and more.
 
+I competed in a team consisting of myself and one other friend of mine. It was both of our first times dealing with cybersecurity exercises, and personally I found it to be not only substantially educational, but also a whole lot of fun. It's always neat to be seeing movie "hackers" doing all kinds of crazy things, but to be actually doing what they do (at least in principle, it's not nearly as flashy or fast) was really cool. Our hard work paid off too, because my team placed at the **\#10** spot out of nearly 40 total teams.
 
 
 [Go to the Home Page]({{ site.url }}{{ site.baseurl }})
