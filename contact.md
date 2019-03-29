@@ -9,8 +9,6 @@ I'm currently working on a collaborative project already, however once that comp
 
 If you'd be interested in contacting me for whatever reason, feel free to send an email over to: **spencerericfong@gmail.com**
 
-(This probably won't be a problem at all, but please don't spam me.)
-
 Also, if you're so inclined please connect with me on [LinkedIn](https://www.linkedin.com/in/spencer-eric-fong), I'd greatly appreciate it.
 
 Otherwise, go ahead and check out my [GitHub](https://github.com/spencerericfong), or my [projects](/projects.html)!
