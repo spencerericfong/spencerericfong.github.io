@@ -21,7 +21,7 @@ We created our submission in the **Unity** game engine, as a WebGL-based game. T
 
 ## CyberCTF @ UCI (April 2018)
 ![Cyber@UCI](/assets/pictures/Cyber@UCI_logo.png)
-The cybersecurity club on campus, **Cyber @ UCI**, hosts yearly **CyberCTF** competitions that any students can participate and compete in. CyberCTF stands for cyber capture the flag, which is a competition used as a learning tool where participants use their skills and tools to solve various puzzles that encompass **cybersecurity** and its principles. For example, there were cipher puzles, logic riddles, web vulnerability attacking, and more.
+The cybersecurity club on campus, **Cyber @ UCI**, hosts yearly **CyberCTF** competitions that any students can participate and compete in. CyberCTF stands for cyber capture the flag, which is a competition used as a learning tool where participants use their skills and tools to solve various puzzles that encompass **cybersecurity** and its principles. For example, in this CyberCTF there were cipher puzles, logic riddles, web vulnerability attacking, and more.
 
 I competed in a team consisting of myself and one other friend of mine. It was both of our first times dealing with cybersecurity exercises, and personally I found it to be not only substantially educational, but also a whole lot of fun. It's always neat to be seeing movie "hackers" doing all kinds of crazy things, but to be actually doing what they do (at least in principle, it's not nearly as flashy or fast) was really cool. Our hard work paid off too, because my team placed at the **\#10** spot out of nearly 40 total teams.
 
@@ -29,7 +29,9 @@ I competed in a team consisting of myself and one other friend of mine. It was b
 ## Hack @ UCI (February 2018)
 ![Hack@UCI](/assets/pictures/Hack@UCI_logo.jpg)
 
+Hack @ UCI was my first ever hackathon, and most definitely wouldn't be my last. For nearly *48 hours straight* with no sleep, I, along with a friend, grinded away at our laptops. As it was my first time experiencing the intense, no-time-to-waste atmosphere of a hackathon, I really pushed myself to keep making progress at all costs. Although it was really tough at times, I definitely came out a better programmer for the experience, and my newfound cramming skills have definitely come in handy since then.
 
+The project I worked on at the event was supposed to be a **facial recognition security program**, however due to inexperience and long set-up times we unfortunately couldn't finish the whole application. However, we still managed to complete the facial recognition part of the program and part of the back end security portion. The application was built in **Python**, utilizing the **OpenCV** library and a number of open source facial recognition libraries. For the camera itself, my partner and I used a **Raspberry Pi 3** module with a camera add-on.
 
 
 [Go to the Home Page]({{ site.url }}{{ site.baseurl }})
