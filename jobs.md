@@ -15,7 +15,12 @@ My role as a member of the student staff force is to ensure guests at the Arena 
 My experience working at the Arena has immensely developed my skills as a member of a team. Not only have my interpersonal and communication skills grown considerably, I have also become highly proficient in being able to juggle many different tasks at a time and complete them all within a reasonable amount of time based upon priority. I have also learned a considerable amount about collegiate gaming, which I believe has the potential to grow into a major facet of the overarching "university experience" within the US, as well as around the world.
 
 
+## Lim's Taekwondo (August 2015 - July 2017)
+![Lim's TKD](assets/pictures/Lim's_TKD.png)
 
+*Lim's Taekwondo* is a taekwondo studio located in Alameda, California. It is run by grandmaster Chris Lim, an 8th degree black belt and extremely prestigious member of the global taekwondo community. The studio provides Olympic-style taekwondo classes for all age groups, from youth to teens to adults, and emphasizes the development of discipline, respect, honor, and health.
+
+Before leaving for university, I was an instructor at *Lim's Taekwondo*. As a **3rd degree black belt** and **decorated competitor**, I had the skills and knowledge to be an instructor and lead classes on my own. I was responsible for leading mainly the youth classes, which consisted of anywhere between **10 - 20 students** on average, all around elementary and middle school age. During class, I would lead the students as a group in warmup exercises at first, then move on to more strenuous exercises and technique practice.
 
 
 [Go to the Home Page]({{ site.url }}{{ site.baseurl }})
