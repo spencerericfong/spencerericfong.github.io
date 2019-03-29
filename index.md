@@ -8,6 +8,4 @@
 layout: home
 ---
 
-Hello there! Welcome to my site. This is the place where you can find my projects and other coding experiences, along with a bunch of extra things, such as my hobbies and interests and all that fun stuff.
-
-I hope that this site will help you to learn more about who I am and the kinds of things I'm interested in. Have a good time, and thank you so much for visiting!
+Hello there! Welcome to my site. I hope that by taking a look around, you'll be able to learn more about me, and the different kinds of things I'm interested in and can bring to the table. Have a good time, and thank you so much for visiting!
