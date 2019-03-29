@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Job EXP
+title: Job Exp
 tagline: Hard work makes the dream work.
 permalink: /jobs.html
 ---
