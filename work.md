@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Work Experience
+title: Job EXP
 tagline: Hard work makes the dream work.
-permalink: /work.html
+permalink: /jobs.html
 ---
 
 
