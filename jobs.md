@@ -25,4 +25,14 @@ Before leaving for university, I was an instructor at *Lim's Taekwondo*. As a **
 Working as an instructor definitely boosted my interpersonal and communication skills, as that was a good 90% of the entire job. It was also my first experience working for a company rather than being self-employed, which was essential in developing my work ethic and responsibility as an employee. I believe that my time working in this position was a positive and ideal first step into the working world, as I have grown considerably thanks to it.
 
 
+## Private Tutor (January 2013 - July 2017)
+![Tutor](assets/pictures/Good-Grades.jpg)
+
+My very first experience having any sort of job whatsoever was as a private tutor while I was in high school. When I was younger, I really excelled in school and always got top marks, so I figured I could put some of that knowledge to use as a tutor. I already knew a couple of people parents who were interested in finding some extra academic help for their elementary or middle schoolers, so I offered my services and began to tutor them.
+
+I would have one-on-one sessions with each student, usually for about an hour or so after school, where I would help them with homework and go over classwork from the day that they may have had some trouble with. The subjects were all encompassing; I tutored **English**, **math**, **science**, and **social studies**. I would also formulate simple practice exercises to complement their homework so that they could get extra experience in concepts they were having trouble with. Other than being there to help with academics, I also indirectly served as a sort of "older brother" figure to many of my students, as I was constantly trying to set a proper example for them in terms of **responsibility**, **discipline**, and **work ethic**. As a result of my efforts (and theirs too of course), all of my students were able to improve their grades and understanding of their school subjects.
+
+As the same is with many others, my first job was an incredible learning experience that really introduced me to what "having a job" entails: responsibilities, expectations, dedication, and of course hard work. I was also able to develop my interpersonal and communication skills, as well as skills needed to be a good teacher. Tutoring has made me realize that teaching someone else how to do something is one of the best ways to learn even more, and I try to pursue that ideal even today with my own coursework.
+
+
 [Go to the Home Page]({{ site.url }}{{ site.baseurl }})
