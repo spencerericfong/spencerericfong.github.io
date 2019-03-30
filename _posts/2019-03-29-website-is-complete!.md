@@ -9,6 +9,6 @@ After over a week of grinding several hours each day, I'm finally done building 
 TO-DO:
 - Add a nice looking profile picture of myself to the front page
 - Upload some interesting school projects (*Columns*) to GitHub and [projects](/projects.html) page
-- Proofread literally everything and make adjustments to text and all so thing sound indicative
+- Proofread literally everything and make adjustments to text and all so ~~thing sound indicative~~ *things sound nice* (case in point, already typos immediately after posting)
 
 But for now, I'm off to play and relax.
