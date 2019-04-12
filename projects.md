@@ -36,7 +36,7 @@ The project I worked on at the event was supposed to be a **facial recognition s
 
 
 ## Columns Replica (December 2017)
-![Columns](/assets/pictures/Columns.png)
+![Columns](/assets/pictures/Columns.jpg)
 
 The classic puzzle game *Columns* was created in 1989 by Jay Geersten. This particular project of mine is a very basic **implementation of** ***Columns***, that I created as one of my very first major school assignments. Unlike most schoolwork projects however, this particular one was completely unsanitized in the sense that we were provided no pre-existing code, and the only guidance we received was a basic outline for how the program should be organized. As a result, this project really helped me develop as an independent programmer, and gave me valuable experience with designing code architecture and organization.
 
