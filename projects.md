@@ -38,7 +38,9 @@ The project I worked on at the event was supposed to be a **facial recognition s
 ## Columns Replica (December 2017)
 ![Columns](/assets/pictures/Columns.png)
 
-The classic puzzle game *Columns* was created in 1989 by Jay Geersten. This particular project of mine is a very basic **implementation of** ***Columns***, that I created as one of my very first major school assignments. Unlike most schoolwork projects however, this particular one was completely unsanitized in the sense that we were provided no pre-existing code, and the only guidance we received was a basic outline for how the program should be organized.
+The classic puzzle game *Columns* was created in 1989 by Jay Geersten. This particular project of mine is a very basic **implementation of** ***Columns***, that I created as one of my very first major school assignments. Unlike most schoolwork projects however, this particular one was completely unsanitized in the sense that we were provided no pre-existing code, and the only guidance we received was a basic outline for how the program should be organized. As a result, this project really helped me develop as an independent programmer, and gave me valuable experience with designing code architecture and organization.
+
+My game has complete playability comparable to that of the original, however unlike the original, this replica is missing a few features. Namely, the fast-forward dropping mechanic, and trackers for the score, level, and jewels. Otherwise, this replica has all core gameplay mechanics fully functional, and is 100% playable from start to finish (or loss). The program was created in **Python**, utilizing the open source game library **PyGame**. The code for it can be found [here](https://github.com/spencerericfong/Columns-replica)!
 
 
 ## Eagle Scout Project (July 2016)
