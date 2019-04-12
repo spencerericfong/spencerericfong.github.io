@@ -35,6 +35,12 @@ Hack @ UCI was my first ever hackathon, and most definitely wouldn't be my last.
 The project I worked on at the event was supposed to be a **facial recognition security program**, however due to inexperience and long set-up times we unfortunately couldn't finish the whole application. However, we still managed to complete the facial recognition part of the program and part of the back end security portion. The application was built in **Python**, utilizing the **OpenCV** library and a number of open source facial recognition libraries. For the camera itself, my partner and I used a **Raspberry Pi 3** module with a camera add-on. You can find the code for the project [here](https://github.com/spencerericfong/Hack-UCI-2018)!
 
 
+## Columns Replica (December 2017)
+![Columns](/assets/pictures/Columns.png)
+
+The classic puzzle game *Columns* was created in 1989 by Jay Geersten. This particular project of mine is a very basic **implementation of** ***Columns***, that I created as one of my very first major school assignments. Unlike most schoolwork projects however, this particular one was completely unsanitized in the sense that we were provided no pre-existing code, and the only guidance we received was a basic outline for how the program should be organized.
+
+
 ## Eagle Scout Project (July 2016)
 ![Eagle Project](/assets/pictures/Eagle_Scout.png)
 
