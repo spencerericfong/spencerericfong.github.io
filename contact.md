@@ -5,9 +5,9 @@ tagline: I'd love to talk with you.
 permalink: /contact.html
 ---
 
-I'm currently working on a collaborative project already, however once that completes I'll definitely be open to joining another project if anyone is looking for team members! This page will be updated accordingly as well.
+I'm currently
 
-If you'd be interested in contacting me for whatever reason, feel free to send an email over to: **spencerericfong@gmail.com**
+If you'd be interested in contacting me for whatever reason, feel free to send an email over to: [spencerericfong@gmail.com](mailto:spencerericfong@gmail.com)
 
 Also, if you're so inclined please connect with me on [LinkedIn](https://www.linkedin.com/in/spencer-eric-fong), I'd greatly appreciate it.
 
