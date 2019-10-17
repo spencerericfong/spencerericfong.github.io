@@ -5,6 +5,16 @@ tagline: Hard work makes the dream work.
 permalink: /jobs.html
 ---
 
+## Stensal, Inc (October 2019 - Present) | Frontend Engineer & Publicity Manager
+![Stensal](assets/pictures/Stensal.png)
+
+I am proud to be a frontend engineer and publicity manager at [Stensal, Inc](https://stensal.com), which is a SF Bay Area based startup that has developed a revolutionary tool to diagnose Segmentation Fault (segfault) errors in programs written in C/C++. The tool is wrapped in a fully functional cloud IDE, in which users can easily create, compile, and execute their programs. Upon encountering a segfault, the built-in console displays an extremely comprehensive and actionable message detailing what caused the error, and where it lies in the code.
+
+At Stensal, Inc, I have a double role of being both a frontend engineer as well as a publicity manager. Due to having an extremely small team size of less than 15 people, I've stepped into these roles in order to help grow and improve the company and its product. As a frontend engineer, I am responsible for creating **functional, aesthetic UI/UX** for the tool, utilizing pure **Javascript, HTML, and CSS**. This includes processing user feedback and following industry standards and innovations in order to create the ultimate **user-oriented product**, while **maintaining efficiency and security**. As a publicity manager, I am also responsible for spreading the word about the product and increasing the number of users the tool receives. This is achieved by utilizing modern-day channels such as **Reddit** and **online advertising**, as well as direct means such as **word of mouth**. Thanks to my efforts, Stensal, Inc has developed substantially, and its product offers more features and ease-of-use than ever before. More and more users have begun to make use of the tool as well, and the company has big plans for the future coming up.
+
+Working at Stensal, Inc is my very first foray into the tech industry, and I am having an incredible time. Although the position is remote and I am missing out on a lot of the social aspects of working, I still find the overall experience to be extremely valuable to me. Working here allows me to get a feel for what real-world industry software engineering and development is like, which will definitely help prepare me for when I start working post-graduation. Not to mention I am learning so much about good engineering and development practices, and I am really honing my coding skills as well. I am also developing better communication skills as a result of my publicity efforts, which translates into many other things in life and will help me down the line too. Overall, this experience has been incredibly rewarding and productive for me, and I can't wait to see where I'll go from here.
+
+
 ## Jumpstart.me (April 2019 - Present) | Growth Marketing Intern
 ![Jumpstart.me](assets/pictures/Jumpstart_banner.png)
 
@@ -18,7 +28,7 @@ I am really grateful for the opportunity to work at Jumpstart. The platform has 
 ## UCI Esports Arena (April 2018 - Present) | Student Staff
 ![UCI Esports](assets/pictures/UCI_Esports.jpg)
 
-I also currently work at the [UCI Esports Arena](https://esports.uci.edu/arena/), which is a public gaming hub located on campus that provides top-of-the-line desktops preloaded with all the latest, most popular games for guests to use for an hourly fee. UCI is one of the leaders in promoting collegiate and scholastic gaming, and the Esports Arena is just one of the many accomplishments of the university's Esports program.
+I currently work at the [UCI Esports Arena](https://esports.uci.edu/arena/), which is a public gaming hub located on campus that provides top-of-the-line desktop computers preloaded with all the latest, most popular games for guests to use for an hourly fee. UCI is one of the leaders in promoting collegiate and scholastic gaming, and the Esports Arena is just one of the many accomplishments of the university's Esports program.
 
 My role as a member of the student staff force is to ensure guests at the Arena enjoy their time at the establishment to the fullest, and have an overall fun and comfortable experience. I am responsible for processing and logging all **monetary transactions** at the Arena, which consists of customers purchasing hours to use the computers. I am also in charge of maintaining Arena **cleanliness and orderliness**; maintaining a clean environment is not only a matter of professionalism but safety as well. Furthermore, I am responsible for **providing technical support** and troubleshooting help for any issues that arise with the equipment, have it be the computers, systems, or other equipment such as consoles or TVs. Additionally, when there are events such as meetings, tournaments, or parties hosted at the Arena, I am in charge of **event execution**; making sure all events run smoothly and on time is of major importance.
 
