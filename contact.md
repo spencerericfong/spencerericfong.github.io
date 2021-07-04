@@ -5,7 +5,7 @@ tagline: I'd love to talk with you.
 permalink: /contact.html
 ---
 
-I'm currently looking for a summer 2020 internship! If you know of any place that is hiring or you are hiring, please do let me know!
+I'm currently looking for a full-time position preferably in computer networking or cybersecurity! If you know of any place that is hiring or you are hiring, please do let me know!
 
 If you'd be interested in contacting me for whatever reason, feel free to send an email over to: [spencerericfong@gmail.com](mailto:spencerericfong@gmail.com)
 

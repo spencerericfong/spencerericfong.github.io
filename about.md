@@ -6,7 +6,7 @@ permalink: /about.html
 ---
 
 My name is **Spencer Eric Fong**, and I was born in 1999 in San Francisco, California. I'm half Korean and half Chinese, and as of right now I'm 20 years old.
-I've lived in the Bay Area all the way up until I entered college and started attending the *University of California, Irvine* as a computer science major. If all things go well and I keep up my academic success, I'll be graduating in June 2021. Go 'Eaters! *Zot zot zot!*
+I've lived in the Bay Area all the way up until I entered college and started attending the *University of California, Irvine* as a computer science major. I graduated in March 2021, and am back in the Bay Area figuring out my life now, day by day.
 
 
 ## So, why Computer Science?
