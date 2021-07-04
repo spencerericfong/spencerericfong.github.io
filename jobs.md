@@ -24,8 +24,8 @@ At Stensal, Inc, I had a double role of being both a frontend engineer as well a
 Working at Stensal, Inc was my very first foray into the tech industry, and I had an incredible time. Although the position was remote and I missed out on a lot of the social aspects of working, I still found the overall experience to be extremely valuable to me. Working there allowed me to get a feel for what real-world industry software engineering and development is like, which definitely helped prepare me for when I started working post-graduation. Not to mention I learned so much about good engineering and development practices, and I really honed my coding skills as well. I also developed better communication skills as a result of my publicity efforts, which translates into many other things in life and will help me down the line too. Overall, this experience was incredibly rewarding and productive for me, and I'm all the better for it.
 
 
-## Jumpstart.me (April 2019 - January 2020) | Growth Marketing Intern
-![Jumpstart.me](assets/pictures/Jumpstart_banner.png)
+## Canvas (April 2019 - January 2020) | Growth Marketing Intern
+![Canvas](assets/pictures/Canvas.png)
 
 I am a former growth marketing intern for [Canvas](https://www.canvas.com/), which is a diverse platform of engineering and computer science students and companies that hire them. It serves as both a social networking platform for students to connect with each other as well as a hiring platform for the affiliated companies to acquire new talent for internship and full-time positions.
 
